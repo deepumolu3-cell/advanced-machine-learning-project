@@ -1,1 +1,1 @@
-# advanced-machine-learning-project
+# imdb-sentiment-analysis
